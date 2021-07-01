@@ -110,5 +110,5 @@ def fetch_url(data, limiter):
 extract(data, limiter)
 fetch_url(data, limiter)
 
-#Credits : @umer.mehmood.1
+#Credits : @UmerMehmood_
 
