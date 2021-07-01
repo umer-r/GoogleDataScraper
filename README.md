@@ -13,6 +13,8 @@ you enter to search for.
 - After first start open the file "run" and put '::' before every line starting from 'pip'
 
 ### On Linux:
-``` mkdir Downloads urls
-  pip3 install bs4 && pip3 install shutil && pip3 install requests
-  python3 Web_Data_Scrape.py```
+```
+mkdir Downloads urls
+pip3 install bs4 && pip3 install shutil && pip3 install requests
+python3 Web_Data_Scrape.py
+```
