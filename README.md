@@ -19,7 +19,8 @@ mkdir Downloads urls
 pip3 install bs4 && pip3 install shutil && pip3 install requests
 python3 Web_Data_Scrape.py
 ```
-
+# Sample usage:
+![](https://user-images.githubusercontent.com/83476929/126529669-ce7cfeb1-d6c7-4144-a1fb-3b277444fc78.png)
 # Contact
 - Twitter : @UmerMehmood_
 - Email   : russs3400@gmail.com
