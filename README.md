@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/83476929/126341772-32384865-a548-4712-914c-b54162014236.png)
+![](https://user-images.githubusercontent.com/83476929/126706609-70b8a88c-dd49-4a45-a01c-bc38a28650d9.png)
 # GoogleDataScraper
 ***Python Google Data Scraper Version 1.0***
 
