@@ -25,4 +25,4 @@ python3 Web_Data_Scrape.py
 - Twitter : @UmerMehmood_
 - Email   : russs3400@gmail.com
 - Upwork  : https://www.upwork.com/o/profiles/users/~011184505ed9059668/
-- Fiverr  : https://www.fiverr.com/carbon_2019
+- Fiverr  : https://www.fiverr.com/hamza_rajaz
