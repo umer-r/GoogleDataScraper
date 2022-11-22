@@ -1,4 +1,7 @@
 ![](https://user-images.githubusercontent.com/83476929/126706609-70b8a88c-dd49-4a45-a01c-bc38a28650d9.png)
+
+![GitHub](https://img.shields.io/github/license/umer-r/GoogleDataScraper) ![GitHub top language](https://img.shields.io/github/languages/top/umer-r/GoogleDataScraper) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/umer-r/GoogleDataScraper) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/umer-r/GoogleDataScraper)
+
 ## GoogleDataScraper
 ***Python Google Data Scraper Version 1.0***
 
@@ -21,8 +24,12 @@ python3 Web_Data_Scrape.py
 ```
 # Demo:
 ![](https://user-images.githubusercontent.com/83476929/126529669-ce7cfeb1-d6c7-4144-a1fb-3b277444fc78.png)
+
 # Contact
-- Twitter : @UmerMehmood_
-- Email   : russs3400@gmail.com
-- Upwork  : https://www.upwork.com/o/profiles/users/~011184505ed9059668/
-- Fiverr  : https://www.fiverr.com/hamza_rajaz
+
+- [Gmail](mailto:russs3400@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/umer-mehmood-437120214/)
+- [Upwork](https://www.upwork.com/o/profiles/users/~011184505ed9059668/)
+- [Fiverr](https://www.fiverr.com/hamza_rajaz)
+
+Made with :heart: by [Umer](https://twitter.com/UmerMehmood_)
